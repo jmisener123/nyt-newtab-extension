@@ -1,0 +1,1 @@
+# nyt-newtab-extension
